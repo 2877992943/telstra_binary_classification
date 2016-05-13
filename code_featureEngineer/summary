@@ -1,0 +1,23 @@
+
+1.missin value
+fillna  knn
+factorize
+离散数值 有没有大小 
+
+2,pca 
+
+3,polynomial 增加特征
+增加特征和调高参数容易过拟合
+
+4,cross validation
+
+5,understand data
+count each class
+
+6,unsupervise
+
+
+7,split data 分别训练模型 看loss 
+
+
+8,xgb importance to find key feature
